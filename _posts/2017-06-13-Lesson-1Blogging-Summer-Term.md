@@ -9,7 +9,7 @@ published: true
 <table>
   <tr>
     <td>Title:  </td>
-    <td>Restarting</td>
+    <td>Python</td>
     <td> Date:  </td>
     <td>10/06/17</td>
   </tr>
@@ -19,16 +19,16 @@ published: true
 <table>
   <tr>
     <td>Starting point:</td>
-    <td>I had a bit of knowledge about github</td>
+    <td>I had a bit of knowledge about python</td>
   </tr>
   <tr>
     <td>Target for this lesson?</td>
-    <td>Restart and redesign my github blog</td>
+    <td>Complete a username and password system</td>
   </tr>
   <tr>
     <td>Did I reach my target? 
 (add details to "Lesson Review")</td>
-    <td>Not fully I managed to restart my blog and put a different copy in its place but I'm not fully in understanding of the forked site I used.</td>
+    <td>No</td>
   </tr>
 </table>
 
@@ -41,19 +41,19 @@ published: true
     <td>How did I learn? What strategies were effective? </td>
   </tr>
   <tr>
-    <td>I learnt a little about the forked site I was using by looking online for ways to add different things such as a background or an avatar I wasn't completely successful but after the lesson ended I went home to do more research on the site. Hopefully by next lesson I will have a good understanding of the site I am using.</td>
+    <td>In the lesson we were asked to complete a username and password system. I started off trying but to no avail, then we went to the front and Mr Keen showed us a way of doing it, which I barely understood. He then started off by showing us how to code a sum function, that was easier but I didn't manage it in the lesson and finished it for homework.</td>
   </tr>
   <tr>
     <td>What limited my learning? Which habits do I need to work on? </td>
   </tr>
   <tr>
-    <td>I limited my learning by spending more time trying to work out the answer myself and failing and not seeing where I went wrong.</td>
+    <td>I limited my learning by not asking for help and just going round in circles not knowing what to do.</td>
   </tr>
   <tr>
     <td>What will I change for next time? How will I improve my learning?</td>
   </tr>
   <tr>
-    <td>I will improve my learning by trying to find the answer then to understand it and put the code into my blog.</td>
+    <td>I will improve my learning by asking for help and improving my learning by doing so.</td>
   </tr>
 </table>
 
